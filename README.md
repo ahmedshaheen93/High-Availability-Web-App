@@ -12,3 +12,6 @@ aws cloudformation create-stack --stack-name compute --template-body file://comp
 ```
 
 3- Hit the public dnc for [Udagram app](http://compu-elast-nnvvs5iv6x3n-1424379892.us-east-1.elb.amazonaws.com/)
+
+4- Hove a look on Cloud Architecture Digram 
+![Cloud Architecture Digram](CloudArchitecture.png)
